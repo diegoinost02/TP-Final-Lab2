@@ -1,0 +1,1186 @@
+# depslib dependency file v1.0
+1637935184 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637923054 ipal.h"
+
+1637936277 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\funcionesarch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"structs.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"FuncionesArch.h"
+
+1637937692 Arch.h"
+
+1637820475 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\menuprincipal.h
+
+1637935155 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\funcionesarch.h
+
+1637800679 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\structs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+
+1637800680 "
+
+1637935675 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\structs.h
+
+1637935782 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\menuusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"MenuUsuario.h"
+
+1637935784 io.h"
+
+1637925409 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\menuusuario.h
+
+1637921911 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\menuadministradores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuPrincipal.h"
+	"MenuAdministradores.h"
+
+1637941416 istradores.h"
+
+1637921796 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\menuadministradores.h
+
+1637928868 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\tdaldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaLdl.h"
+
+1637926916 
+
+1637928851 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\tdaldl.h
+
+1637922094 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\tdalistass.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaListasS.h"
+
+1637922096 S.h"
+
+1637922003 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\tdalistass.h
+
+1637875279 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637804512 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\animaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"animaciones.h"
+
+1637938174 es.h"
+
+1637804485 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\animaciones.h
+
+1637818822 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\arbolpeli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"usuarios.h"
+
+1637941818 h"
+
+1637810828 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\pelis.h
+
+1637809074 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\arbolpeli.h
+	"pelis.h"
+
+1637809074 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\listapeliculas.h
+	"pelis.h"
+	"arbolPeli.h"
+
+1637809076 .h"
+
+1637926914 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\listapeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+
+1637810744 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+
+1637820345 c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\usuarios.h
+
+1637923052 source:c:\users\usuario\desktop\utn\programacion ii  y laboratorio ii\amazon lab two prime\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637804514 source:g:\utn\laboratorio ll\amazon lab two prime\animaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"animaciones.h"
+
+1637804486 g:\utn\laboratorio ll\amazon lab two prime\animaciones.h
+
+1637818824 source:g:\utn\laboratorio ll\amazon lab two prime\arbolpeli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"usuarios.h"
+
+1637935676 g:\utn\laboratorio ll\amazon lab two prime\structs.h
+
+1637928852 g:\utn\laboratorio ll\amazon lab two prime\tdaldl.h
+
+1637922004 g:\utn\laboratorio ll\amazon lab two prime\tdalistass.h
+
+1637935156 g:\utn\laboratorio ll\amazon lab two prime\funcionesarch.h
+
+1637925410 g:\utn\laboratorio ll\amazon lab two prime\menuusuario.h
+
+1637921798 g:\utn\laboratorio ll\amazon lab two prime\menuadministradores.h
+
+1637820476 g:\utn\laboratorio ll\amazon lab two prime\menuprincipal.h
+
+1637810830 g:\utn\laboratorio ll\amazon lab two prime\pelis.h
+
+1637809076 g:\utn\laboratorio ll\amazon lab two prime\arbolpeli.h
+	"pelis.h"
+
+1637809076 g:\utn\laboratorio ll\amazon lab two prime\listapeliculas.h
+	"pelis.h"
+	"arbolPeli.h"
+
+1637820346 g:\utn\laboratorio ll\amazon lab two prime\usuarios.h
+
+1637926916 source:g:\utn\laboratorio ll\amazon lab two prime\listapeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+
+1637935186 source:g:\utn\laboratorio ll\amazon lab two prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637921912 source:g:\utn\laboratorio ll\amazon lab two prime\menuadministradores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuPrincipal.h"
+	"MenuAdministradores.h"
+
+1637875280 source:g:\utn\laboratorio ll\amazon lab two prime\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637935784 source:g:\utn\laboratorio ll\amazon lab two prime\menuusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"MenuUsuario.h"
+
+1637810746 source:g:\utn\laboratorio ll\amazon lab two prime\pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+
+1637800680 source:g:\utn\laboratorio ll\amazon lab two prime\structs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+
+1637928870 source:g:\utn\laboratorio ll\amazon lab two prime\tdaldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaLdl.h"
+
+1637922096 source:g:\utn\laboratorio ll\amazon lab two prime\tdalistass.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaListasS.h"
+
+1637923054 source:g:\utn\laboratorio ll\amazon lab two prime\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637938174 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\animaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"animaciones.h"
+
+1637804486 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\animaciones.h
+
+1637818824 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\arbolpeli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"usuarios.h"
+
+1637935676 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\structs.h
+
+1637928852 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdaldl.h
+
+1637922004 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdalistass.h
+
+1637935156 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\funcionesarch.h
+
+1637925410 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuusuario.h
+
+1637939732 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuadministradores.h
+
+1637940106 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuprincipal.h
+
+1637810830 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\pelis.h
+
+1637809076 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\arbolpeli.h
+	"pelis.h"
+
+1637809076 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\listapeliculas.h
+	"pelis.h"
+	"arbolPeli.h"
+
+1637820346 g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\usuarios.h
+
+1637937692 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\funcionesarch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"structs.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"FuncionesArch.h"
+
+1637926916 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\listapeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+
+1637939676 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637941416 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuadministradores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuPrincipal.h"
+	"MenuAdministradores.h"
+
+1637939676 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637935784 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"MenuUsuario.h"
+
+1637941818 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+
+1637800680 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\structs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+
+1637928870 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdaldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaLdl.h"
+
+1637922096 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdalistass.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaListasS.h"
+
+1637923054 source:g:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637938174 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/animaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"animaciones.h"
+
+1637804486 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/animaciones.h
+
+1637818824 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/arbolPeli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"usuarios.h"
+
+1637935676 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/structs.h
+
+1637928852 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/TdaLdl.h
+
+1637922004 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/TdaListasS.h
+
+1637935156 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/FuncionesArch.h
+
+1637925410 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/MenuUsuario.h
+
+1637939732 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/MenuAdministradores.h
+
+1637940106 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/MenuPrincipal.h
+
+1637810830 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/pelis.h
+
+1637809076 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/arbolPeli.h
+	"pelis.h"
+
+1637809076 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/listapeliculas.h
+	"pelis.h"
+	"arbolPeli.h"
+
+1637820346 /Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/usuarios.h
+
+1637937692 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/FuncionesArch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"structs.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"FuncionesArch.h"
+
+1637926916 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/listapeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+
+1637941416 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/MenuAdministradores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuPrincipal.h"
+	"MenuAdministradores.h"
+
+1637939676 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/MenuPrincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637935784 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/MenuUsuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"MenuUsuario.h"
+
+1637941818 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+
+1637800680 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/structs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+
+1637928870 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/TdaLdl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaLdl.h"
+
+1637922096 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/TdaListasS.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaListasS.h"
+
+1637923054 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637945738 source:/Volumes/KINGSTON/UTN/laboratorio ll/TP FINAL LAB II/Amazon Lab Two Prime/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637938174 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\animaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"animaciones.h"
+
+1637804486 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\animaciones.h
+
+1637818824 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\arbolpeli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"usuarios.h"
+
+1637935676 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\structs.h
+
+1637928852 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdaldl.h
+
+1637922004 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdalistass.h
+
+1637935156 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\funcionesarch.h
+
+1637925410 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuusuario.h
+
+1637939732 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuadministradores.h
+
+1637940106 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuprincipal.h
+
+1637810830 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\pelis.h
+
+1637809076 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\arbolpeli.h
+	"pelis.h"
+
+1637809076 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\listapeliculas.h
+	"pelis.h"
+	"arbolPeli.h"
+
+1637820346 e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\usuarios.h
+
+1637937692 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\funcionesarch.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"structs.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"FuncionesArch.h"
+
+1637926916 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\listapeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+
+1662511468 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637941416 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuadministradores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuPrincipal.h"
+	"MenuAdministradores.h"
+
+1637939676 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+
+1637935784 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\menuusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"usuarios.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"MenuUsuario.h"
+
+1637941818 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\pelis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+
+1637800680 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\structs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+
+1637928870 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdaldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaLdl.h"
+
+1637922096 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\tdalistass.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<windows.h>
+	"structs.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"listapeliculas.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+	"TdaListasS.h"
+
+1637923054 source:e:\utn\laboratorio ll\tp final lab ii\amazon lab two prime\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"listapeliculas.h"
+	"pelis.h"
+	"arbolPeli.h"
+	"usuarios.h"
+	"animaciones.h"
+	"TdaLdl.h"
+	"TdaListasS.h"
+	"FuncionesArch.h"
+	"MenuUsuario.h"
+	"MenuAdministradores.h"
+	"MenuPrincipal.h"
+

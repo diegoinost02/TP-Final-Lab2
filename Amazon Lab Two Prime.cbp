@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Amazon Lab Two Prime" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Amazon Lab Two Prime" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Amazon Lab Two Prime" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="FuncionesArch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FuncionesArch.h" />
+		<Unit filename="MenuAdministradores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MenuAdministradores.h" />
+		<Unit filename="MenuPrincipal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MenuPrincipal.h" />
+		<Unit filename="MenuUsuario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MenuUsuario.h" />
+		<Unit filename="TdaLdl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TdaLdl.h" />
+		<Unit filename="TdaListasS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TdaListasS.h" />
+		<Unit filename="animaciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="animaciones.h" />
+		<Unit filename="arbolPeli.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arbolPeli.h" />
+		<Unit filename="listapeliculas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listapeliculas.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pelis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pelis.h" />
+		<Unit filename="structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structs.h" />
+		<Unit filename="usuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="usuarios.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
